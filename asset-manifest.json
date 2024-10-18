@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/nikosnikiforos/static/css/main.8a3a3ac6.chunk.css",
-    "main.js": "/nikosnikiforos/static/js/main.5d069a45.chunk.js",
-    "main.js.map": "/nikosnikiforos/static/js/main.5d069a45.chunk.js.map",
+    "main.js": "/nikosnikiforos/static/js/main.f32420a9.chunk.js",
+    "main.js.map": "/nikosnikiforos/static/js/main.f32420a9.chunk.js.map",
     "runtime-main.js": "/nikosnikiforos/static/js/runtime-main.df999e1e.js",
     "runtime-main.js.map": "/nikosnikiforos/static/js/runtime-main.df999e1e.js.map",
     "static/js/2.1823462a.chunk.js": "/nikosnikiforos/static/js/2.1823462a.chunk.js",
@@ -54,6 +54,6 @@
     "static/js/runtime-main.df999e1e.js",
     "static/js/2.1823462a.chunk.js",
     "static/css/main.8a3a3ac6.chunk.css",
-    "static/js/main.5d069a45.chunk.js"
+    "static/js/main.f32420a9.chunk.js"
   ]
 }
