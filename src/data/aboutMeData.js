@@ -1,7 +1,7 @@
 export const aboutMeData = [
   {
     id: 1,
-    bio: "Hi, I'm Nikos, born in 1996 in Crete, Greece,, with a lifelong passion for technology. I grew up fascinated with computers, always eager to learn how they worked and what I could create with them. In 2014, I graduated from EPAL in Rethymno with a focus on Computer Science. After spending 8 years in the hotel industry, I made the bold decision to follow my passion for web development and technology. I'm excited to bring my skills and passion to new tech challenges.",
+    bio: "Hi, I'm Nikos, born  in Crete, Greece,, with a lifelong passion for technology. I grew up fascinated with computers, always eager to learn how they worked and what I could create with them. In 2014, I graduated from EPAL in Rethymno with a focus on Computer Science. After spending 8 years in the hotel industry, I made the bold decision to follow my passion for web development and technology. I'm excited to bring my skills and passion to new tech challenges.",
   },
   {
     id: 2,
