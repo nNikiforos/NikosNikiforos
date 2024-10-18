@@ -10,7 +10,7 @@ const Home = () => {
       <AppBanner></AppBanner>
 
       <ProjectsProvider>
-        <ProjectsGrid limit={6} />
+        <ProjectsGrid limit={3} />
       </ProjectsProvider>
 
       <div className="mt-8 sm:mt-10 flex justify-center">

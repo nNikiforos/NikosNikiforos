@@ -8,10 +8,10 @@ import forkify from "../images/Forkify/forkify3.png";
 
 export const projectsData = [
   {
-    id: 1,
-    title: "Nexter [Advanced-Sass]",
+    id: 7,
+    title: "Forkify",
     category: "Udemy project",
-    img: Nexter4,
+    img: forkify,
   },
   {
     id: 2,
@@ -20,16 +20,16 @@ export const projectsData = [
     img: VisitRethymno1,
   },
   {
-    id: 3,
-    title: "Coach-finder [Vue]",
-    category: "Udemy project",
-    img: coachFinder1,
-  },
-  {
     id: 4,
     title: "Traveler-List [React.js]",
     category: "Udemy project",
     img: travelerList1,
+  },
+  {
+    id: 3,
+    title: "Coach-finder [Vue]",
+    category: "Udemy project",
+    img: coachFinder1,
   },
   {
     id: 5,
@@ -44,9 +44,9 @@ export const projectsData = [
     img: Popcorn1,
   },
   {
-    id: 7,
-    title: "Forkify",
+    id: 1,
+    title: "Nexter [Advanced-Sass]",
     category: "Udemy project",
-    img: forkify,
+    img: Nexter4,
   },
 ];
