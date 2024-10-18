@@ -3,8 +3,8 @@
     "main.css": "/nikosnikiforos/static/css/main.8a3a3ac6.chunk.css",
     "main.js": "/nikosnikiforos/static/js/main.f32420a9.chunk.js",
     "main.js.map": "/nikosnikiforos/static/js/main.f32420a9.chunk.js.map",
-    "runtime-main.js": "/nikosnikiforos/static/js/runtime-main.df999e1e.js",
-    "runtime-main.js.map": "/nikosnikiforos/static/js/runtime-main.df999e1e.js.map",
+    "runtime-main.js": "/nikosnikiforos/static/js/runtime-main.06f3d494.js",
+    "runtime-main.js.map": "/nikosnikiforos/static/js/runtime-main.06f3d494.js.map",
     "static/js/2.1823462a.chunk.js": "/nikosnikiforos/static/js/2.1823462a.chunk.js",
     "static/js/2.1823462a.chunk.js.map": "/nikosnikiforos/static/js/2.1823462a.chunk.js.map",
     "static/js/3.fbd5951a.chunk.js": "/nikosnikiforos/static/js/3.fbd5951a.chunk.js",
@@ -13,8 +13,8 @@
     "static/js/4.2c82de1b.chunk.js.map": "/nikosnikiforos/static/js/4.2c82de1b.chunk.js.map",
     "static/js/5.2206b71e.chunk.js": "/nikosnikiforos/static/js/5.2206b71e.chunk.js",
     "static/js/5.2206b71e.chunk.js.map": "/nikosnikiforos/static/js/5.2206b71e.chunk.js.map",
-    "static/js/6.ba1684a6.chunk.js": "/nikosnikiforos/static/js/6.ba1684a6.chunk.js",
-    "static/js/6.ba1684a6.chunk.js.map": "/nikosnikiforos/static/js/6.ba1684a6.chunk.js.map",
+    "static/js/6.5c8efba2.chunk.js": "/nikosnikiforos/static/js/6.5c8efba2.chunk.js",
+    "static/js/6.5c8efba2.chunk.js.map": "/nikosnikiforos/static/js/6.5c8efba2.chunk.js.map",
     "static/js/7.752aeb23.chunk.js": "/nikosnikiforos/static/js/7.752aeb23.chunk.js",
     "static/js/7.752aeb23.chunk.js.map": "/nikosnikiforos/static/js/7.752aeb23.chunk.js.map",
     "static/js/8.d5beeb5c.chunk.js": "/nikosnikiforos/static/js/8.d5beeb5c.chunk.js",
@@ -51,7 +51,7 @@
     "static/media/vue.2d9e35ac.png": "/nikosnikiforos/static/media/vue.2d9e35ac.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.df999e1e.js",
+    "static/js/runtime-main.06f3d494.js",
     "static/js/2.1823462a.chunk.js",
     "static/css/main.8a3a3ac6.chunk.css",
     "static/js/main.f32420a9.chunk.js"
