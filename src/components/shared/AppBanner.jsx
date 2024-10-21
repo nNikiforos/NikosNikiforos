@@ -1,7 +1,7 @@
 import { FiArrowDownCircle } from "react-icons/fi";
 import developerImg from "../../images/developer-dark.jpeg";
 import { motion } from "framer-motion";
-import resume from "../../assets/resume-me.pdf";
+import resume from "../../assets/ResumeNikos.pdf";
 
 const AppBanner = () => {
   return (
